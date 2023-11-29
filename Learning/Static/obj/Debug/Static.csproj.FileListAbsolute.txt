@@ -1,0 +1,6 @@
+/Users/macbook/RiderProjects/C-Sharb/Static/bin/Debug/Static.exe
+/Users/macbook/RiderProjects/C-Sharb/Static/bin/Debug/Static.pdb
+/Users/macbook/RiderProjects/C-Sharb/Static/obj/Debug/Static.csproj.AssemblyReference.cache
+/Users/macbook/RiderProjects/C-Sharb/Static/obj/Debug/Static.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/C-Sharb/Static/obj/Debug/Static.exe
+/Users/macbook/RiderProjects/C-Sharb/Static/obj/Debug/Static.pdb
