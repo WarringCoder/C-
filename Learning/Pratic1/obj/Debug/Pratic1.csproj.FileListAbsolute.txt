@@ -1,0 +1,6 @@
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/bin/Debug/Pratic1.exe
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/bin/Debug/Pratic1.pdb
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/obj/Debug/Pratic1.csproj.AssemblyReference.cache
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/obj/Debug/Pratic1.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/obj/Debug/Pratic1.exe
+/Users/macbook/RiderProjects/C-Sharb/Pratic1/obj/Debug/Pratic1.pdb
